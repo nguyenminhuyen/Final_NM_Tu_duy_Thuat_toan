@@ -5,7 +5,7 @@ Special thanks to my friends Lý Bach and Tiến Thành for helping us with codi
 
 ## Team member
 **Nguyễn Minh Uyên**
-- Prepare problems 1-10
+- Preparing problems 1-10
 
 **Trần Phương Đình**
-- Prepare problems 11-20
+- Preparing problems 11-20
